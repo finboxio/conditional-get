@@ -1,7 +1,7 @@
 
 # koa-conditional-get [![Build Status](https://travis-ci.org/koajs/conditional-get.png)](https://travis-ci.org/koajs/conditional-get)
 
- Conditional GET support for koa.
+ Conditional GET support for koa pinned for koa@1.
 
 ## Installation
 

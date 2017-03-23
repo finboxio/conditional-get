@@ -1,8 +1,8 @@
 {
-  "name": "koa-conditional-get",
+  "name": "koa1-conditional-get",
   "description": "Conditional GET support for koa",
-  "repository": "koajs/conditional-get",
-  "version": "1.0.3",
+  "repository": "finboxio/conditional-get",
+  "version": "1.1.0",
   "keywords": [
     "koa",
     "middleware",
